@@ -1,0 +1,7 @@
+C:\EZB\java_projects>javac test1/hello1.java
+
+C:\EZB\java_projects>java test1.hello1
+
+or
+
+C:\EZB\java_projects>java test1/hello1

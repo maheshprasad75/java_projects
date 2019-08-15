@@ -1,0 +1,11 @@
+cd C:\EZB\java_projects
+
+C:\EZB\java_projects>javac packageTwo/Child.java
+
+C:\EZB\java_projects>java packageTwo.Child
+
+OR
+
+C:\EZB\java_projects>java packageTwo/Child
+
+name is prasad Mahesh

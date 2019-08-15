@@ -1,0 +1,3 @@
+cd C:\EZB\java_projects
+
+javac packageOne/Parent.java
